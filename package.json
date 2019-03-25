@@ -9,5 +9,8 @@
   "files": [
     "index.json",
     "bin"
-  ]
+  ],
+  "scripts": {
+    "prepublish": "echo '```json' > README.md ; cat index.json >> README.md ; echo '```' >> README.md"
+  }
 }
