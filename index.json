@@ -1,11 +1,14 @@
-{ "name": {
+{
+  "name": {
     "first": "Kyle",
     "middle": "Evan",
-    "last": "Mitchell" },
+    "last": "Mitchell"
+  },
   "email": "kyle@kemitchell.com",
   "github": "https://github.com/kemitchell",
   "twitter": "https://twitter.com/kemitchell",
   "website": "https://kemitchell.com",
   "city": "Oakland",
   "state": "California",
-  "country": "Unitd States of America" }
+  "country": "Unitd States of America"
+}
